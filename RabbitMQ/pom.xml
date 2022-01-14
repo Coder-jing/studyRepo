@@ -25,9 +25,9 @@
             <version>1.2.17</version>
         </dependency>
         <dependency>
-            <groupId>com.trytotry</groupId>
-            <artifactId>mybaits-generator-xplugin</artifactId>
-            <version>0.0.1</version>
+            <groupId>org.springframework.security</groupId>
+            <artifactId>spring-security-config</artifactId>
+            <version>5.0.5.RELEASE</version>
         </dependency>
     </dependencies>
 
